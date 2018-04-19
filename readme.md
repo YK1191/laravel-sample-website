@@ -1,4 +1,4 @@
-## HangmanApp
+## Laravel sample website
 ABOUT
 This project is showing a demo of a Laravel web application using HTML, CSS, SQL, and PHP.
 
